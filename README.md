@@ -8,4 +8,4 @@ under development...
 <br>
 opinions are welcome!
 <br>
-[Discord](https://discord.gg/evex)
+[Discord](https://discord.gg/evex/)
